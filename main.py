@@ -1,6 +1,4 @@
-# Holiday Activity Planner
-# Lesson: Nested Conditional Statements
- 
+
 print("====================================")
 print("    Welcome to Holiday Planner!     ")
 print("====================================")
@@ -15,7 +13,7 @@ choice = int(input("Enter 1 or 2: "))
 print()
  
 if choice == 1:
-    # Nested if-else - runs only when choice is 1
+    
     print("Step 2: Pick your beach activity")
     print("  1 - Swimming")
     print("  2 - Sandcastle Building")
@@ -34,7 +32,7 @@ if choice == 1:
         print("Remember    : Carry a bucket and spade")
  
 elif choice == 2:
-    # Nested if-else - runs only when choice is 2
+
     print("Step 2: Pick your mountain activity")
     print("  1 - Hiking")
     print("  2 - Camping")
